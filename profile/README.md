@@ -12,6 +12,7 @@
 
 | Chapter | Repository |
 | ------ | ------ |
+| JAVA | [Java lecture sources](https://github.com/20240801-gangnam/01_java) |
 
 <br>
 
