@@ -27,7 +27,9 @@
 
 | Chapter | Repository |
 | ------ | ------ |
-
+| HTML | [Jdbc lecture sources](https://github.com/20240801-gangnam/04_html) |
+| CSS | [Jdbc lecture sources](https://github.com/20240801-gangnam/05_css) |
+| JS | [Jdbc lecture sources](https://github.com/20240801-gangnam/06_javascript) |
 
 <br>
 
