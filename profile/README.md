@@ -14,6 +14,8 @@
 | ------ | ------ |
 | JAVA | [Java lecture sources](https://github.com/20240801-gangnam/01_java) |
 | JDBC | [Jdbc lecture sources](https://github.com/20240801-gangnam/03_jdbc) |
+| SERVLET | [servlet lecture sources](https://github.com/20240801-gangnam/08_servlet) |
+| SPRING-CORE | [spring lecture sources](https://github.com/20240801-gangnam/09_spring-core) |
 
 <br>
 
